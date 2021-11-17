@@ -1,0 +1,4 @@
+ Balance: 445.33529601597394 
+ Total Loss: -169.7992155387611 
+ Total Profit: 572.134511554735 
+ Crypto: BTC-USD
